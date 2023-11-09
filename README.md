@@ -4,11 +4,12 @@ I want level up my web dev skills in the next 100 days. Planning to build a fron
 
 **PROGRESS OVER PERFECTION**
 
-### Progress
+## Progress
+
 1. Next14 + Golang JWT Authentication 🚧
 
 
-### Tools I am planning to learn/level-up in the next 100 days
+## Tools I am planning to learn/level-up in the next 100 days
 
 - [ ] Next 14
 - [ ] Tailwind
@@ -54,7 +55,10 @@ I want level up my web dev skills in the next 100 days. Planning to build a fron
 - [ ] Git
 
 
-### Meta
+## Meta
+
 ✅ => Done
+
 🚧 => Currently Working
+
 ⏳ => On Hold for now
